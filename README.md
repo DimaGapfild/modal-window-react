@@ -1,2 +1,2 @@
-this is a skeleton for modal window createt on react
+this is a skeleton for modal window created on react
 
